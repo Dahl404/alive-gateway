@@ -1,0 +1,6 @@
+wallet.key
+wallet.addr
+.venv/
+logs/
+public.url
+node_modules/

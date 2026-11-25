@@ -1,0 +1,1 @@
+https://grade-heating-shopper-forests.trycloudflare.com/v1/chat/completions
